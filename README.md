@@ -27,11 +27,11 @@ This report highlights the key differences between drivers who accepted various 
 **1. Target Young Drivers for Bar Coupons**
 - **Recommendation:** Focus marketing efforts on drivers under 30 who visit bars more than once a month. Tailor bar-related offers towards this demographic and frequency pattern to increase coupon acceptance.
 
-**2. Offer Coffee Coupons to Non-Parent Drivers**
+**2. Offer Coffee Coupons to Drivers without kids with them**
 - **Recommendation:** Coffee coupons should be aimed at drivers who frequent coffee houses, have passengers who are not children, and are not widowed. Adjust campaigns to reflect these behavioral trends.
 
-**3. Short Expiry Coupons for Restaurant Offers**
-- **Recommendation:** For less expensive restaurant coupons, offer coupons with a 1-day expiration window to increase uptake. Specifically target drivers without children as passengers.
+**3. Long Expiry Coupons for Restaurant Offers**
+- **Recommendation:** For less expensive restaurant coupons, offer coupons with a 1-day instead of 1-hour expiration window to increase uptake. Specifically target drivers without children as passengers.
 
 **4. Target Regular Restaurant Goers for Expensive Coupons**
 - **Recommendation:** Aim promotions for more expensive restaurant coupons at drivers who visit inexpensive restaurants frequently and are not widowed. This specific customer base is more likely to respond positively to these offers.
